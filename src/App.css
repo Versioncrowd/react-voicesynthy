@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-image: url('./avatar.png');
+  overflow: visible;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.App-header {
+  background-color: #fff;
+  height: 150px;
+  padding: 20px;
+  color: black;
+}
+
+h1, input, button, p {
+  margin: 2rem auto;
+  font-size: 1rem;
+  padding: 1rem;
+  display: block;
+  font-style: normal;
+  font-weight: normal;
+}
+
+p {
+  text-align: center;
+}
